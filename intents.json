@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello! How can I help you today?"]
+    },
+    {
+      "tag": "refund",
+      "patterns": ["What is your refund policy?", "How do I get a refund?"],
+      "responses": ["You can request a refund within 7 days of purchase."]
+    }
+  ]
+}
