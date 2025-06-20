@@ -14,3 +14,6 @@ This chatbot uses simple NLP logic to handle common customer queries like refund
 
 ## 🚀 Usage
 Run `python app.py` and open in browser.
+## 🖼️ Demo Screenshot
+
+![Chatbot UI](screenshot.png)
